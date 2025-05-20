@@ -1,1 +1,3 @@
-## python essay_eval.py sample_essay.jpg
+'''
+python essay_eval.py sample_essay.jpg
+'''

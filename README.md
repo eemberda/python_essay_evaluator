@@ -24,25 +24,39 @@ python essay_eval.py <image_file.jpg>
 ## Sample output
 ```
 === Insights Extracted ===
-Here's a breakdown of the key insights from the handwritten essay:
+Okay, let's evaluate this essay based on your criteria and rubric.
 
-**Central Argument:**
+**Overall Assessment: D (65-74%)**
 
-The main point of the essay is to highlight the incredible diversity within India, arguing that it’s a fact often overlooked. It emphasizes that this diversity isn’t simply a matter of surface-level differences but is deeply woven into many aspects of Indian life.
+Here’s a breakdown of the evaluation, with justifications for the score:
 
-**Key Points & Details:**
+**1. Talk about Cultural Practices of a Particular Country (20%):**
 
-*   **Languages:** The author emphasizes that India has 1600 languages. This is presented as a significant factor in the country’s diversity.
-*   **Religions:** There are eight major religions practiced in India.
-*   **Dance:** A thousand dances. 
-*   **Food:** The food varies across different regions. 
-*   **Other Factors:** The essay points to numerous other elements that contribute to this diversity - games, clothing, etc. 
+*   **Score:** 14/20
+*   **Justification:** The essay is clearly focused on Japanese tea ceremony (Chanoyu). It describes some of the key elements like the tea room, the movements, and the utensils. However, the description is very basic and lacks depth. It doesn’t provide a nuanced understanding of the historical and philosophical roots of the ceremony.
 
-**Overall Tone and Purpose:**
+**2. Talk about the Issues in the Cultural Practices (30%):**
 
-The writer has a tone of observation and gentle correction. They are pointing out a tendency to underestimate the degree of diversity within India, emphasizing it as a significant characteristic of the nation.
+*   **Score:** 18/30
+*   **Justification:** The essay briefly touches on the issues, stating that the tea ceremony can be difficult and demanding. It mentions that the movements are rigid.  However, it doesn't delve into the broader socio-cultural issues surrounding the tea ceremony—such as its connection to Zen Buddhism, the emphasis on social hierarchy, or critiques of the ceremony’s exclusivity and potential for superficial performance. It’s a very surface-level assessment of potential problems.
 
-**Would you like me to elaborate on any specific aspect of the essay, or perhaps discuss the implications of this observation?**
+**3. Provide your own opinion on the matter (50%):**
+
+*   **Score:** 17/50
+*   **Justification:** The essay attempts to offer an opinion by stating that it can be difficult and demanding. However, it lacks a thoughtful or well-developed perspective. It doesn’t engage with the complexity of the topic and simply repeats a superficial observation. It's a basic expression of opinion, not a reasoned argument.
+
+**Reasons for the Score:**
+
+*   **Grammar & Clarity:** The handwriting is difficult to read which impacts the clarity of the entire essay.
+*   **Lack of Depth:** The essay primarily offers descriptions rather than analysis. It's largely descriptive rather than analytical.
+*   **Weak Argumentation:** The opinions are superficial and don’t demonstrate critical engagement with the subject.
+
+**Suggestions for Improvement:**
+
+*   **Research:**  The student needs to do more research into the history, philosophy, and social context of the Japanese tea ceremony.
+*   **Develop a Thesis:**  Instead of just stating that it’s “difficult,” the student should formulate a clear thesis statement about the tea ceremony’s values or challenges.
+*   **Provide Specific Examples:** Support opinions with evidence from the text or from research.
+*   **Consider Multiple Perspectives:** A more sophisticated response would acknowledge different views on the tea ceremony, both positive and negative.
 ```
 
 ## For improvement

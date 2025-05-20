@@ -51,3 +51,6 @@ if __name__ == "__main__":
     insights = query_gemma3_vision(image_path)
     print("=== Insights Extracted ===")
     print(insights)
+
+
+ 
